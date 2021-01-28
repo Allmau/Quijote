@@ -1,8 +1,7 @@
-<div align="center">
 #Don Quijote de la Mancha
 Primera parte
 <span style="display:block;text-align:center">
-![alt text](http://www.cervantesvirtual.com/s3/BVMC_OBRAS/fef/cf8/b48/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/fefcf8b4-82b1-11df-acc7-002185ce6064_16.jpg) 
+![alt text](http://www.cervantesvirtual.com/s3/BVMC_OBRAS/fef/cf8/b48/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/fefcf8b4-82b1-11df-acc7-002185ce6064_16.jpg)
 </span>
 ##Capítulo I
 De la condición y ejercicio del famoso hidalgo D. Quijote de la Mancha
