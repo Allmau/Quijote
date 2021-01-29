@@ -3,9 +3,8 @@
 # Don Quijote de la Mancha
 
 Primera parte
-<span style="display:block;text-align:center">
+
 ![alt text](http://www.cervantesvirtual.com/s3/BVMC_OBRAS/fef/cf8/b48/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/fefcf8b4-82b1-11df-acc7-002185ce6064_16.jpg)
-</span>
 
 ## Capítulo I
 
@@ -18,23 +17,23 @@ Es, pues, de saber que este sobredicho hidalgo, los ratos que estaba ocioso (que
 Tuvo muchas veces competencia con el cura de su lugar (que era hombre docto, graduado en Sigüenza) sobre cual había sido mejor caballero, Palmerín de Inglaterra, o Amadís de Gaula: mas maese Nicolás, barbero del mismo pueblo, decía que ninguno llegaba al caballero del Febo, y que si alguno se le podía comparar, era don Galaor, hermano de Amadís de Gaula, porque tenía muy acomodada condición para todo; que no era caballero melindroso, ni tan llorón como su hermano, y que en lo de la valentía no le iba en zaga. En resolución, él se enfrascó tanto en su lectura, que se le pasaban las noches leyendo de claro en claro y los días de turbio en turbio: y así del poco dormir y del mucho leer se le secó el cerebro de manera que vino a perder el juicio. Llenósele la fantasía de todo aquello que leía en los libros, así de encantamentos como de pendencias, batallas, desafíos, heridas, requiebros, amores, tormentas y disparates imposibles; y asentósele de tal modo en la imaginación que era verdad toda aquella máquina de aquellas soñadas invenciones que leía, que para él no había otra historia más cierta en el mundo. Decía él que el Cid Rui Díaz había sido muy buen caballero; pero que no tenía que ver con el caballero de la Ardiente Espada, que de sólo un revés había partido por medio dos fieros y descomunales gigantes. Mejor estaba con Bernardo del Carpio, porque en Roncesvalles había muerto a Roldán el encantado, valiéndose de la industria de Hércules cuando ahogó a Anteón el hijo de la Tierra entre los brazos. Decía mucho bien del gigante Morgante, porque con ser de aquella generación gigántea, que todos son soberbios y descomedidos, él sólo era afable y bien criado.
 
 Pero sobre todos estaba bien con Reinaldos de Montalván, y más cuando le veía salir de su castillo, y robar cuantos topaba, y cuando en Allende[12](http://www.cervantesvirtual.com/obra-visor/el-ingenioso-hidalgo-don-quijote-de-la-mancha--10/html/fefcf8b4-82b1-11df-acc7-002185ce6064_1.html#N_12_) robó aquel ídolo de Mahoma, que era todo de oro, según dice su historia.
-<span style="display:block;text-align:center">
+
 ![alt text](http://www.cervantesvirtual.com/s3/BVMC_OBRAS/fef/cf8/b48/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/fefcf8b4-82b1-11df-acc7-002185ce6064_18.jpg)
-</span>
+
 Diera él por dar una mano de coces al traidor de Galalón[13](http://www.cervantesvirtual.com/obra-visor/el-ingenioso-hidalgo-don-quijote-de-la-mancha--10/html/fefcf8b4-82b1-11df-acc7-002185ce6064_1.html#N_13_), al ama que tenía y aun a su sobrina de añadidura.
 
 En efecto, rematado ya su juicio, vino a dar en el más extraño pensamiento que jamás dio loco en el mundo, y fue que le pareció convenible y necesario, así para el aumento de su honra como para el servicio de su república, hacerse caballero andante, e irse por todo el mundo con sus armas y caballo a buscar las aventuras, y a ejercitarse en todo aquello que él había leído que los caballeros andantes se ejercitaban, deshaciendo todo género de agravio, y poniéndose en ocasiones y peligros, donde acabándolos cobrase eterno nombre y fama. Imaginábase el pobre ya coronado por el valor de su brazo, por lo menos del imperio de Trapisonda; y así con estos tan agradables pensamientos, llevado del extraño gusto que en ellos sentía, se dio priesa a poner en efecto lo que deseaba.
 
 Y lo primero que hizo, fue limpiar unas armas que habían sido de sus bisabuelos, que tomadas de orín y llenas de moho, luengos siglos había que estaban puestas y olvidadas en un rincón.
-<span style="display:block;text-align:center">
+
 ![alt text](http://www.cervantesvirtual.com/s3/BVMC_OBRAS/fef/cf8/b48/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/fefcf8b4-82b1-11df-acc7-002185ce6064_21.jpg)
-</span>
+
 Limpiolas y aderezolas lo mejor que pudo; pero vio que tenían una gran falta, y era que no tenían celada de encaje, sino morrión simple: mas a esto suplió su industria, porque de cartones hizo un modo de media celada, que encajada con el morrión hacia una apariencia de celada entera. Es verdad que para probar si era fuerte, y podía estar al riesgo de una cuchillada, sacó su espada y le dio dos golpes, y con el primero y en un punto deshizo lo que había hecho en una semana: y no dejó de parecerle mal la facilidad con que la había hecho pedazos, y por asegurarse de este peligro, la tornó a hacer de nuevo poniéndole unas barras de hierro por de dentro, de tal manera que él quedó satisfecho de su fortaleza, y sin querer hacer nueva experiencia de ella la diputó y tuvo por celada finísima de encaje.
 
 Fue luego a ver a su rocín, y aunque tenía más cuartos que un real[14](http://www.cervantesvirtual.com/obra-visor/el-ingenioso-hidalgo-don-quijote-de-la-mancha--10/html/fefcf8b4-82b1-11df-acc7-002185ce6064_1.html#N_14_), y más tachas que el caballo de Gonela, que _tantum pellis et ossa fuit_[15](http://www.cervantesvirtual.com/obra-visor/el-ingenioso-hidalgo-don-quijote-de-la-mancha--10/html/fefcf8b4-82b1-11df-acc7-002185ce6064_1.html#N_15_), le pareció que ni el Bucéfalo de Alejandro, ni Babieca el del Cid con él se igualaban.
-<span style="display:block;text-align:center">
+
 ![alt text](http://www.cervantesvirtual.com/s3/BVMC_OBRAS/fef/cf8/b48/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/fefcf8b4-82b1-11df-acc7-002185ce6064_23.jpg)
-</span>
+
 Cuatro días se le pasaron en imaginar qué nombre le pondría- porque (según se decía él a sí mismo, no era razón que caballo de caballero tan famoso, y tan bueno el por sí, estuviese sin nombre conocido, y así procuraba acomodársele de manera que declarase quién había sido antes que fuese de caballero andante, y lo que era entonces: pues estaba muy puesto en razón que mudando su señor estado, mudase él también el nombre, y le cobrase famoso y de estruendo, como convenía a la nueva orden y al nuevo ejercicio que ya profesaba: y así después de muchos nombres que formó, borró y quitó, añadió deshizo y tornó a hacer en su memoria e imaginación, al fin le vino a llamar ROCINANTE, nombre a su parecer alto, sonoro y significativo de lo que había sido cuando fue rocín, antes de lo que ahora era, que era antes y primero de todos los rocines del mundo.
 
 Puesto nombre y tan a su gusto a su caballo, quiso ponérsele a sí mismo, y en este pensamiento duró otros ocho días, y al cabo se vino a llamar DON QUIJOTE: de donde, como queda dicho, tomaron ocasión los autores desta tan verdadera historia, que sin duda se debía de llamar Quijada, y no Quesada, como otros quisieron decir. Pero acordándose que el valeroso Amadís no sólo se había contentado con llamarse Amadís a secas, sino que añadió el nombre de su reino y patria para hacerla famosa y se llamó Amadís de Gaula, así quiso como buen caballero añadir al suyo el nombre de la suya, y llamarse DON QUIJOTE DE LA MANCHA, con que a su parecer declaraba muy al vivo su linaje y patria, y la honraba con tomar el sobrenombre della.
